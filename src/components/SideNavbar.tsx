@@ -11,7 +11,8 @@ import {
   LayoutDashboard,
   UsersRound,
   Settings,
-  ChevronRight
+  ChevronRight,
+  Wallpaper
 } from "lucide-react";
 import { Button } from "./ui/button";
 
@@ -65,6 +66,12 @@ export default function SideNavbar({}: Props) {
             title: "Settings",
             href: "#",
             icon: Settings,
+            variant: "ghost"
+          },
+          {
+            title: "Themes",
+            href: "/theme",
+            icon: Wallpaper,
             variant: "ghost"
           }
         ]}
