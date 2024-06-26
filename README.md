@@ -4,6 +4,9 @@
 
 It is a dashboard where you are able to check realtime data for your business or sales with interactive graphs for proper presentation as well as easy uderstanding of data.
 
+## Deployed Link:-
+https://social-sense-assignment-pied.vercel.app/
+
 ## Tech Stack:-
 - Nextjs
 - Typescript
