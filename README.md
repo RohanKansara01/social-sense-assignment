@@ -8,7 +8,7 @@ It is a dashboard where you are able to check realtime data for your business or
 https://social-sense-assignment-pied.vercel.app/
 
 ## Routes:-
-Dashboard - https://social-sense-assignment-pied.vercel.app/
+Dashboard - https://social-sense-assignment-pied.vercel.app/ </br>
 Themes - https://social-sense-assignment-pied.vercel.app/theme
 
 ## Tech Stack:-
