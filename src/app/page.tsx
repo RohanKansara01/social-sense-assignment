@@ -10,25 +10,25 @@ import OrdersPage from "./orders/page";
 
 const cardData: CardProps[] = [
   {
-    label: "Total Revenue",
+    label: "Revenue",
     amount: "$45,231.89",
     discription: "+20.1% from last month",
     icon: DollarSign
   },
   {
-    label: "Subscriptions",
+    label: "Customers",
     amount: "+2350",
     discription: "+180.1% from last month",
     icon: Users
   },
   {
-    label: "Sales",
+    label: "Orders",
     amount: "+12,234",
     discription: "+19% from last month",
     icon: CreditCard
   },
   {
-    label: "Active Now",
+    label: "Growth",
     amount: "+573",
     discription: "+201 since last hour",
     icon: Activity
