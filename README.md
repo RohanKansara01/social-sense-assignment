@@ -7,13 +7,17 @@ It is a dashboard where you are able to check realtime data for your business or
 ## Deployed Link:-
 https://social-sense-assignment-pied.vercel.app/
 
+## Routes:-
+Dashboard - https://social-sense-assignment-pied.vercel.app/
+Themes - https://social-sense-assignment-pied.vercel.app/theme
+
 ## Tech Stack:-
 - Nextjs
 - Typescript
 - shadcn ui
-- React
+- Lucide Icons
 - Recharts
-- CSS
+- Tailwind CSS
 
 ## Getting started:-
 - Need node version 18 or above.
@@ -21,4 +25,6 @@ https://social-sense-assignment-pied.vercel.app/
 
 ## Screenshot:-
 
-![dashboard](https://github.com/RohanKansara01/social-sense-assignment/assets/142526317/1dc69cec-2b22-43d6-aa7f-fdbf23fc2977)
+![dashboard](https://github.com/RohanKansara01/social-sense-assignment/assets/142526317/91d4ef15-4bc5-4638-919f-84521c5735b9)
+
+![themes](https://github.com/RohanKansara01/social-sense-assignment/assets/142526317/450fd565-e9a5-4526-ba8b-36089c5bb9b7)
